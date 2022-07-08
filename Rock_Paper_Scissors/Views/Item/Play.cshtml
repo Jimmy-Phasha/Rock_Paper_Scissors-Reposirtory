@@ -1,0 +1,17 @@
+﻿@{ 
+    ViewBag.Title = "Player vs Computer";
+}
+
+<div class="container text-center">
+
+    <p class="lead text-black-50">Please select your choice: </p>
+
+    <form asp-controller="Item" asp-action="PlayerVsComp" method="post">
+
+        <button type="submit" class="btn btn-outline-primary btn-lg" asp-route-id ="1">ROCK</button>
+
+        <button type="submit" class="btn btn-outline-primary btn-lg" asp-route-id ="2">PAPER</button>
+
+        <button type="submit" class="btn btn-outline-primary btn-lg" asp-route-id ="3">SCISSORS</button>
+    </form>
+</div>

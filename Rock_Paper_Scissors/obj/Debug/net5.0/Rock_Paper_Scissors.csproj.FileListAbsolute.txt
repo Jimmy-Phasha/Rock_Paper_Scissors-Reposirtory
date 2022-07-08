@@ -36,4 +36,5 @@ C:\Users\Mjay\Documents\My Stuff\programmes\Rock_Paper_Scissors\Rock_Paper_Sciss
 C:\Users\Mjay\Documents\My Stuff\programmes\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.pdb
 C:\Users\Mjay\Documents\My Stuff\programmes\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.genruntimeconfig.cache
 C:\Users\Mjay\Documents\My Stuff\programmes\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.csproj.CopyComplete
-C:\Users\Mjay\Documents\My Stuff\programmes\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Razor\Views\Home\Play.cshtml.g.cs
+C:\Users\Mjay\Documents\My Stuff\programmes\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Razor\Views\Item\Play.cshtml.g.cs
+C:\Users\Mjay\Documents\My Stuff\programmes\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Razor\Views\Item\Result.cshtml.g.cs

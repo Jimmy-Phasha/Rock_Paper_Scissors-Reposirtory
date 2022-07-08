@@ -9,11 +9,23 @@
     <link rel="stylesheet" asp-href-include="/lib/bootstrap/css/bootstrap.min.css" />
     <!-- Font Awesome -->
     <link rel="stylesheet" asp-href-include="/lib/font-awesome/css/all.min.css" />
-
+    <!--CSS-->
+    <link rel="stylesheet" href="~/css/"/>
 </head>
 <body>
-    <div>
+    <div class="container">
+        <h1 class="display-3 text-center text-black-50">Rock Paper Scissors Game</h1>
+        <!--unique content of each view to be displayed here-->
         @RenderBody()
+    </div>
+
+    <div class="container mt-lg-5">
+        <div class="border-top footer text-muted text-center small">
+            <p>
+                Created by: MJ Phasha<br />
+                <span class="fas fa-copyright"></span> 2022
+            </p>
+        </div>
     </div>
 
     <!-- JavaScript -->

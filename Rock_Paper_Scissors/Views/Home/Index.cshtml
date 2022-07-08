@@ -2,12 +2,15 @@
     ViewBag.Title = "Home";
 }
 
-<form asp-action="">
+<div class="container text-center">
+    <form asp-controller="Item" asp-action="Play" method="get">
 
-    <button type="submit" class="btn btn-outline-danger btn-lg">Player vs Computer</button>
-</form>
+        <button type="submit" class="btn btn-outline-danger btn-lg">Player vs Computer</button>
+    </form>
 
-<form asp-action="">
+    <form asp-controller="Item" asp-action="CompVsComp">
 
-    <button type="submit" class="btn btn-outline-danger btn-lg">Computer vs Computer</button>
-</form>
+        <button type="submit" class="btn btn-outline-danger btn-lg">Computer vs Computer</button>
+    </form>
+</div>
+
