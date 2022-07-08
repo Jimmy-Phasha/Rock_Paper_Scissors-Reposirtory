@@ -6,12 +6,13 @@
 
     <p class="lead text-black-50">Please select your choice: </p>
 
-    <form asp-controller="Item" asp-action="PlayerVsComp" method="post">
+    <a asp-controller="Item" asp-action="PlayerVsComp" asp-route-id="1" 
+       class="btn btn-outline-primary btn-lg">ROCK</a>
 
-        <button type="submit" class="btn btn-outline-primary btn-lg" asp-route-id ="1">ROCK</button>
+    <a asp-controller="Item" asp-action="PlayerVsComp" asp-route-id="2"
+       class="btn btn-outline-primary btn-lg">PAPER</a>
 
-        <button type="submit" class="btn btn-outline-primary btn-lg" asp-route-id ="2">PAPER</button>
+    <a asp-controller="Item" asp-action="PlayerVsComp" asp-route-id="3"
+       class="btn btn-outline-primary btn-lg">SCISSORS</a>
 
-        <button type="submit" class="btn btn-outline-primary btn-lg" asp-route-id ="3">SCISSORS</button>
-    </form>
 </div>

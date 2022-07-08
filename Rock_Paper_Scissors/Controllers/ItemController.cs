@@ -1,41 +1,26 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System;
 using Rock_Paper_Scissors.Models;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System;
 
 namespace Rock_Paper_Scissors.Controllers
 {
     public class ItemController : Controller
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
-
         public IActionResult Play()
         {
             return View();
         }
         
-        [HttpPost]
         public IActionResult PlayerVsComp(int id)
         {
-            Item Item = DB.GetItem(id);
+            Item Item = DB.GetItem(id); //gets item from data with similar id
             string user = Item.Name;
             string comp = ComputerChoice();
             string str;
 
-            if (id == 1)
-                user = "ROCK";
-            else if (id == 2)
-                user = "PAPER";
-            else
-                user = "SCISSORS";
+            str = WinOrLose(user, comp, 0);
 
-            str = WinOrLose(user, comp);
-
+            ViewBag.Choices = "Player : " + user + "\nComputer : " + comp;
             ViewBag.Message = str;
             return View("Result");
         }
@@ -44,14 +29,15 @@ namespace Rock_Paper_Scissors.Controllers
         {
             string comp1 = ComputerChoice();
             string comp2 = ComputerChoice();
-            string str = WinOrLose(comp1, comp2);
+            string str = WinOrLose(comp1, comp2, 1);
 
+            ViewBag.Choices = "Computer 1 : " + comp1 + "\nComputer 2 : " + comp2;
             ViewBag.Message = str;
             return View("Result");
         }
 
 
-        //Private methods to help functionality of computer
+        //Private methods to help functionality of the application
 
         //Computer's Random Choice
         private string ComputerChoice()
@@ -60,19 +46,17 @@ namespace Rock_Paper_Scissors.Controllers
             int num = ran.Next(1, 4);
             string str;
 
-            if (num == 1)
-                str = "ROCK";
-            else if (num == 2)
-                str = "PAPER";
-            else
-                str = "SCISSORS";
+            Item item = DB.GetItem(num);
+            str = item.Name;
 
             return str;
         }
 
         //To determine if it's a win or loss
-        private string WinOrLose(string user, string comp)
+        private string WinOrLose(string user, string comp, int i)
         {
+            //integer parameter is to regulate the output accordingly, whether it's player vs comp or comp vs comp
+
             string str = "";
 
             if (user == comp)
@@ -80,11 +64,20 @@ namespace Rock_Paper_Scissors.Controllers
 
             else if ((user == "ROCK" && comp == "PAPER") || (user == "PAPER" && comp == "SCISSORS") || (user == "SCISSORS" && comp == "ROCK"))
             {
-                str = "You Lose";
+                if (i == 0)
+                    str = "You Lose";
+                else
+                    str = "Computer 2 Wins!!";
+
             }
 
             else if ((user == "ROCK" && comp == "SCISSORS") || (user == "PAPER" && comp == "ROCK") || (user == "SCISSORS" && comp == "PAPER"))
-                str = "You WIN!!";
+            {
+                if (i == 0)
+                    str = "You WIN!!";
+                else
+                    str = "Computer 1 Wins!!";
+            }
 
             return str;
         }
