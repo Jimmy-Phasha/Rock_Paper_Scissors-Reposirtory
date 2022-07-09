@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mjay\\Documents\\My Stuff\\programmes\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj",
+      "projectUniqueName": "C:\\Users\\Mjay\\Downloads\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj",
       "projectName": "Rock_Paper_Scissors",
-      "projectPath": "C:\\Users\\Mjay\\Documents\\My Stuff\\programmes\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj",
+      "projectPath": "C:\\Users\\Mjay\\Downloads\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj",
       "packagesPath": "C:\\Users\\Mjay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mjay\\Documents\\My Stuff\\programmes\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\obj\\",
+      "outputPath": "C:\\Users\\Mjay\\Downloads\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mjay\\AppData\\Roaming\\NuGet\\NuGet.Config",

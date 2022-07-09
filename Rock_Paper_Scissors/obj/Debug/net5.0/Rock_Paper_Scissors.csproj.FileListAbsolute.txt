@@ -38,3 +38,83 @@ C:\Users\Mjay\Documents\My Stuff\programmes\Rock_Paper_Scissors\Rock_Paper_Sciss
 C:\Users\Mjay\Documents\My Stuff\programmes\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.csproj.CopyComplete
 C:\Users\Mjay\Documents\My Stuff\programmes\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Razor\Views\Item\Play.cshtml.g.cs
 C:\Users\Mjay\Documents\My Stuff\programmes\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Razor\Views\Item\Result.cshtml.g.cs
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\appsettings.Development.json
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\appsettings.json
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\libman.json
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.StaticWebAssets.xml
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.exe
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.deps.json
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.runtimeconfig.json
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.runtimeconfig.dev.json
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.dll
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.pdb
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.Views.dll
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.Views.pdb
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.csproj.AssemblyReference.cache
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.AssemblyInfoInputs.cache
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.AssemblyInfo.cs
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.csproj.CoreCompileInputs.cache
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.MvcApplicationPartsAssemblyInfo.cache
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.RazorAssemblyInfo.cache
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.RazorAssemblyInfo.cs
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\scopedcss\bundle\Rock_Paper_Scissors.styles.css
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\staticwebassets\Rock_Paper_Scissors.StaticWebAssets.Manifest.cache
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.TagHelpers.input.cache
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.TagHelpers.output.cache
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.RazorCoreGenerate.cache
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Razor\Views\Item\Play.cshtml.g.cs
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Razor\Views\Item\Result.cshtml.g.cs
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Razor\_ViewImports.cshtml.g.cs
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Razor\_ViewStart.cshtml.g.cs
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.RazorTargetAssemblyInfo.cache
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.RazorTargetAssemblyInfo.cs
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.Views.pdb
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.dll
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\refint\Rock_Paper_Scissors.dll
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.pdb
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.genruntimeconfig.cache
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\ref\Rock_Paper_Scissors.dll
+D:\CSIS Projects\Internet Programming\Dwaign\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.csproj.CopyComplete
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\appsettings.json
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\libman.json
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.exe
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.deps.json
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.runtimeconfig.json
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.runtimeconfig.dev.json
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.dll
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\ref\Rock_Paper_Scissors.dll
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.pdb
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.Views.dll
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.Views.pdb
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.csproj.AssemblyReference.cache
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.AssemblyInfoInputs.cache
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.AssemblyInfo.cs
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.csproj.CoreCompileInputs.cache
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.RazorAssemblyInfo.cache
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.RazorAssemblyInfo.cs
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\staticwebassets\Rock_Paper_Scissors.StaticWebAssets.Manifest.cache
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\staticwebassets\Rock_Paper_Scissors.StaticWebAssets.xml
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\scopedcss\bundle\Rock_Paper_Scissors.styles.css
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.TagHelpers.input.cache
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.TagHelpers.output.cache
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.RazorCoreGenerate.cache
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Razor\_ViewImports.cshtml.g.cs
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Razor\_ViewStart.cshtml.g.cs
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.RazorTargetAssemblyInfo.cache
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.RazorTargetAssemblyInfo.cs
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.Views.pdb
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.dll
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\ref\Rock_Paper_Scissors.dll
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.pdb
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.genruntimeconfig.cache
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.csproj.CopyComplete
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Razor\Views\COption\Play.cshtml.g.cs
+C:\Users\Mjay\Downloads\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\net5.0\Razor\Views\COption\Result.cshtml.g.cs

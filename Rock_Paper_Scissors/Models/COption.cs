@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace Rock_Paper_Scissors.Models
 {
-    public class Item
+    public enum Option { Rock, Paper, Scissors};
+    public class COption
     {
-        public string Name { get; set; }
-        public int ID { get; set; }
+        public Option Option { get; set; }
     }
 }
